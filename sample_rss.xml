@@ -1,0 +1,22 @@
+<rss version="2.0">
+<channel>
+	<title>Channel title</title>
+	<description>Channel descriotion</description>
+
+	<item>
+		<title>Item 1 Title</title>
+		<description>Item 1 description</description>
+		<pubDate>Tue, 19 Oct 2004 11:09:11 -0400</pubDate>
+	</item>
+	<item>
+		<title>Item 2 Title</title>
+		<description>Item 2 description</description>
+		<pubDate>Tue, 19 Oct 2004 11:09:09 -0400</pubDate>
+	</item>
+	<item>
+		<title>Item 3 Title</title>
+		<description>Item 3 description</description>
+		<pubDate>Tue, 19 Oct 2004 11:09:07 -0400</pubDate>
+	</item>
+</channel>
+</rss>
